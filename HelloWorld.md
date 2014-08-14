@@ -8,7 +8,7 @@ Hello **World**
 2. Second thing to try
 3. Third things with sub items
 
-Drop me an[email](mailto://lawgoh@gmail.com "Email me")  
+Drop me an [email](mailto://lawgoh@gmail.com "Email me")  
 ***
-Copyright 2014. *Lawrence* Goh :sparkling heart:
+Copyright 2014. *Lawrence* Goh :o)
 ***
